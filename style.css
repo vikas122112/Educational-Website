@@ -337,7 +337,7 @@ main {
 .section2 h1 {
   font-family: man;
   font-size: 100px;
-  background-image: url(/images/jobready2Rotated.webp);
+  background-image: url("images/jobready2Rotated.webp");
   background-size: cover;
   background-clip: text;
   color: transparent;
