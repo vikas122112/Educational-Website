@@ -7,7 +7,10 @@ This is a frontend-only web development project created for learning and practic
 Hi, I'm **Vikas**, a **B.Tech CSE student** with a strong interest in **AI/ML** and **Web Development**. I enjoy building projects that help me learn and improve my technical skills.
 
 ---
+🚀 Project is Live Here:
+👉 https://vikas122112.github.io/Educational-Website/
 
+---
 ## 📌 Project Overview
 
 This project is a **frontend-only website clone** created for learning and practice purposes. It focuses on understanding real-world website design, layout, and styling.
