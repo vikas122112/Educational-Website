@@ -482,6 +482,7 @@ main {
 .section5{
   margin-top: 30px;
   position: relative;
+  z-index: 1;
 }
 
 .section5 .blimage img{
@@ -559,6 +560,8 @@ main {
 /* footer section */
 /* footer left */
 .footer-container{
+  position: relative;
+  z-index: 5;
   margin-top: 50px;
   display: flex;
   justify-content: space-between;
@@ -679,7 +682,7 @@ main {
 
 }
 
-/* animation define */
+/* ✅ animation define */
 @keyframes fadeUp {
   from {
     opacity: 0;
